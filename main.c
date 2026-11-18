@@ -1,4 +1,3 @@
-
 #include <stdio.h>
 
 // 渡された値をstatic変数に加算して合計を返す関数
